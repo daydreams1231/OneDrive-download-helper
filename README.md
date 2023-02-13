@@ -14,3 +14,5 @@
 ***注意只需要FedAuth值，别的不用复制***
 
 现在。运行download.py后按提示输入对应值及保存路径即可，完成后程序会生成一个downlink.txt文件，之后用aria2时补一个参数 --input-file=downlink.txt 即可开始下载
+
+新手闲的没事瞎写的，代码可能不怎么好，请谅解
