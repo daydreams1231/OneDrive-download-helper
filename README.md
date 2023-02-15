@@ -4,9 +4,9 @@
 如何使用:
 打开Onedrive
 按F12，选择 网络
-刷新页面后找 https://*.sharepoint.com/personal/*/_api/web/GetListUsingPath(DecodedUrl=@a1)/RenderListDataAsStream?@a1=*&RootFolder=*&TryNewExperienceSingle=TRUE
+刷新页面后找 https://$.sharepoint.com/personal/$/_api/web/GetListUsingPath(DecodedUrl=@a1)/RenderListDataAsStream?@a1=$&RootFolder=$&TryNewExperienceSingle=TRUE
 
-示例网址中的 * 仅供参考。具体如何因人而异
+示例网址中的 $ 仅供参考。具体如何因人而异
 
 复制该网址，记为Link
 
